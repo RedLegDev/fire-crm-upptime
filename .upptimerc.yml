@@ -6,8 +6,8 @@ sites:
   - name: Public Website
     url: https://www.usefireapp.com
     type: globalping
-  - name: Application
-    url: https://app.usefireapp.com
+  - name: App
+    url: https://go.usefireapp.com
     type: globalping
   - name: API
     url: https://api.usefireapp.com
