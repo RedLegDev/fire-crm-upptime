@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usefireapp.com.ico",
     "slug": "public-website",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 423,
-    "timeDay": 184,
-    "timeWeek": 155,
-    "timeMonth": 423,
-    "timeYear": 423,
-    "dailyMinutesDown": {
-      "2025-12-13": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 416,
+    "timeDay": 228,
+    "timeWeek": 175,
+    "timeMonth": 416,
+    "timeYear": 416,
+    "dailyMinutesDown": {}
   },
   {
     "name": "App",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/go.usefireapp.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 158,
-    "timeDay": 339,
-    "timeWeek": 162,
-    "timeMonth": 158,
-    "timeYear": 158,
-    "dailyMinutesDown": {
-      "2025-12-13": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 155,
+    "timeDay": 130,
+    "timeWeek": 164,
+    "timeMonth": 155,
+    "timeYear": 155,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.usefireapp.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 679,
-    "timeDay": 763,
-    "timeWeek": 731,
+    "timeDay": 776,
+    "timeWeek": 732,
     "timeMonth": 679,
     "timeYear": 679,
-    "dailyMinutesDown": {
-      "2025-12-13": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
