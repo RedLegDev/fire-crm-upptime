@@ -4,9 +4,9 @@
     "url": "https://www.usefireapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.usefireapp.com.ico",
     "slug": "public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 301,
     "timeYear": 289,
     "dailyMinutesDown": {
+      "2025-12-31": 0,
       "2025-12-27": 32,
       "2025-12-16": 17
     }
@@ -25,9 +26,9 @@
     "url": "https://go.usefireapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/go.usefireapp.com.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -37,6 +38,7 @@
     "timeMonth": 158,
     "timeYear": 163,
     "dailyMinutesDown": {
+      "2025-12-31": 0,
       "2025-12-27": 32,
       "2025-12-16": 17
     }
@@ -46,7 +48,7 @@
     "url": "https://api.usefireapp.com/api/HealthFunction",
     "icon": "https://icons.duckduckgo.com/ip3/api.usefireapp.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
@@ -58,6 +60,7 @@
     "timeMonth": 1026,
     "timeYear": 969,
     "dailyMinutesDown": {
+      "2025-12-31": 0,
       "2025-12-27": 32,
       "2025-12-16": 18
     }
