@@ -1,7 +1,7 @@
 url: https://api.usefireapp.com/api/HealthFunction
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-01-16T14:30:19.638Z
+status: up
+code: 200
+responseTime: 676
+lastUpdated: 2026-01-16T14:45:23.270Z
 startTime: 2025-11-29T14:28:37.512Z
 generator: Upptime <https://github.com/upptime/upptime>
